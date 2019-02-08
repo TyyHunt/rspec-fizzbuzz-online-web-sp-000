@@ -3,7 +3,7 @@
 1.upto(1000) do |i|
   if i % 3 == 0 && i % 5 == 0
     puts "Fizzbuzz"
-  elsif i % 3 == 0 
+  elsif i % 3 == 0
     puts "Fizz"
   elsif i % 5 == 0
     puts "Buzz"
