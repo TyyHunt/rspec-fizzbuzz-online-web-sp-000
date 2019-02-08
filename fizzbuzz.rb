@@ -3,6 +3,7 @@
 
 1.upto 1000 do |number|
   puts number
+  number.to_i
   if i % 3 == 0 && i % 5 == 0
     puts "Fizzbuzz"
   elsif i % 3 == 0
