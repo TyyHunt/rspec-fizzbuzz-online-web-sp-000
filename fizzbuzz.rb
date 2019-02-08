@@ -5,3 +5,5 @@ def FizzBuzz(int)
     returns "Fizz"
   end
 end
+
+FizzBuzz(3)
