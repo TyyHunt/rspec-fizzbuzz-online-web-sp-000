@@ -2,7 +2,7 @@
 # See README.md for instructions on how to do this
 
 1.upto 1000 do |i|
-  puts i 
+  puts i
   if i % 3 == 0 && i % 5 == 0
     puts "Fizzbuzz"
   elsif i % 3 == 0
