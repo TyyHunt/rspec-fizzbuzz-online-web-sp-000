@@ -7,10 +7,4 @@ def fizzbuzz(int)
   if int % 5 == 0
     returns "Buzz"
   end
-  if int % 3 == 0 && int % 5 == 0
-    returns "FizzBuzz"
-  end
-  if int % 3 != 0 && int % 5 != 0
-    returns "nil"
-  end
 end
